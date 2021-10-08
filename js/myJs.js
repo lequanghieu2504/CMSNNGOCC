@@ -72,8 +72,8 @@ $('#no').click(() => {
 
 // generate text in input
 function textGenerate() {
-    var n = "";
-    var text = " t's 00:00 19/10/2021🎉🎂,
+    var n = "Helloooo Nọccc";
+    var text = " it's 00:00 19/10/2021,
     Mấy mươi mùa bánh chưng đi qua, để quên bao vết hằn trên gương mặt người bạn già của tui. Mới 16 mùa xuân xanh mà cứ ngỡ đã ngoài 61 rồi cơ đấy, haha 🤣. Đùa vậy thui chứ bạn tui là hót gơ đó hehe. Qua tủi mới chúc bạn Nọc học siu siu giỏi, khỏe siu siu khỏe để không bị dương tính covid nè, zui zẻ cười tươi chứ đừng khóc nhè nhìn mắc cười lắm 🤣, xinh thì z được rồi chứ xinh nữa thứ nào chịu nổi 🤣🤣🤣. Mọi điều như ý ha và nhớ học siu giỏi để chỉ bài t nữa đó nhaa. ";
     var a = Array.from(text);
     var textVal = $('#txtReason').val() ? $('#txtReason').val() : "";
